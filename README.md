@@ -56,6 +56,7 @@ Me chamo Hiago Ernesto, tenho 25 anos e sou natural do Maranhão. Atualmente, es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <br/>
 <br/>
 
@@ -76,6 +77,7 @@ Me chamo Hiago Ernesto, tenho 25 anos e sou natural do Maranhão. Atualmente, es
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoernesto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 </p>
 
 
