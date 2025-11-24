@@ -1,7 +1,7 @@
 ## 👨🏽‍💻 Hiago Ernesto
 
 
-Me chamo Hiago Ernesto, tenho 25 anos e sou natural do Maranhão. Atualmente, estou cursando Técnico em Informática no IFSULDEMINAS.
+Me chamo Hiago Ernesto. Ingressei no universo da tecnologia por meio da informática, focando meus estudos em desenvolvimento web e programação. Adoro assistir conteudos no YouTube, séries/filmes e jogar. A tecnologia é minha paixão, pois vejo nela uma ferramenta essencial de transformação.
 
 
 ---
